@@ -1,0 +1,1 @@
+export const notEmpty = name => `${name} не может быть пустым`
